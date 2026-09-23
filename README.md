@@ -17,7 +17,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ## Development Visualization
 
-<video src="https://github.com/itsdarklikehell/awesome-claude-code/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/itsdarklikehell/awesome-claude-code/main/gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## The Claude Code Ticker - A Sample of Claude Code Projects Around GitHub
