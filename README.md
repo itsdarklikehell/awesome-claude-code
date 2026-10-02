@@ -45,6 +45,13 @@ The current iteration of the list, such as you see it today, was launched with t
 
 # Table of Contents
 
+[![CI](https://github.com/itsdarklikehell/awesome-claude-code/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-claude-code/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-claude-code/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-claude-code/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-claude-code)](https://github.com/itsdarklikehell/awesome-claude-code/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-claude-code)](https://github.com/itsdarklikehell/awesome-claude-code/pulls)
+
+
 <!-- THIS PART GETS GENERATED  -->
 
 - [Start Here](#start-here)
