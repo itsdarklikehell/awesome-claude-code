@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (06061b9)
 * docs: add README badges (1bdbc33)
 * chore: add GitHub templates and workflows (7005a80)
 * chore: update repo ticker data and SVGs [skip ci] (5c260dc)
@@ -21,4 +22,3 @@
 * chore: update repo ticker data and SVGs [skip ci] (13ee354)
 * chore: update repo ticker data and SVGs [skip ci] (d83108c)
 * chore: update repo ticker data and SVGs [skip ci] (3bdad7a)
-* chore: update repo ticker data and SVGs [skip ci] (b2de6b0)
